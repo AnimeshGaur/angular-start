@@ -7,7 +7,7 @@
   "dependencies": {
     "@bazel/typescript": "^5.5.1",
     "@types/node": "6.0.84",
-    "protobufjs": "5.0.0"
+    "protobufjs": "6.11.3"
   },
   "peerDependencies": {
     "@angular/compiler-cli": "0.0.0-PLACEHOLDER",
